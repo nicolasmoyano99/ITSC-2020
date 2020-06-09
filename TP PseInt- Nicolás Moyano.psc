@@ -53,6 +53,7 @@ Proceso BancodelaNacion
 		Leer CantDinero1;
 	SiNo
 		Escribir "Su Retiro se ha producido un error, inténtelo nuevamente";
+		Leer CantDinero1; 
 	FinSi
 	
 	Escribir "Muchas gracias por acceder a éste programa, Has pronto"; 
